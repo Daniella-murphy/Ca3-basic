@@ -1,1 +1,4 @@
-
+/* CSS code for a burgundy background */
+.burgundy-background {
+    background-color: #800020; /* Hex code for burgundy */
+}
