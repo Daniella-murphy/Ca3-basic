@@ -1,4 +1,13 @@
-/* CSS code for a burgundy background */
-.burgundy-background {
-    background-color: #800020; /* Hex code for burgundy */
+body{
+    background-color: #800020;
+}
+
+h2{
+ color:white;
+ text-align:center;
+}
+
+p{
+   font-family:verdana;
+   font-size:20px;
 }
