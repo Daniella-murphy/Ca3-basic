@@ -1,7 +1,9 @@
 body{
  background-color: #800020; 
     background-image: url('https://i.pinimg.com/1200x/b2/9d/9d/b29d9d7c978a72f5daab30115525246c.jpg');
-    background-size: contain; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
 }
 
 h1{
