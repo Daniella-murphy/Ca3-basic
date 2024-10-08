@@ -1,8 +1,8 @@
 body{
-    background-image: url('http://spice4life.co.za/wp-content/uploads/5001-6000/South-African-Flag.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center; 
+    background-image:url('http://spice4life.co.za/wp-content/uploads/5001-6000/South-African-Flag.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center; 
 }
 
 h1{
