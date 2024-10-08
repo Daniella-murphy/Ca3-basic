@@ -1,5 +1,8 @@
 body{
-    background-color: #800020;
+ background-color: #800020; 
+    background-image: url('https://example.com/cherry-pattern.png');
+    background-repeat: repeat;
+    background-size: contain; 
 }
 
 h2{
